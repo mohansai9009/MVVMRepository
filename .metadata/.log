@@ -560,3 +560,9 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective com.pat.t
 
 !ENTRY com.pat.tool.keditor 1 0 2017-07-17 15:31:05.399
 !MESSAGE [node console]Initial scan complete. Ready for changes.
+
+!ENTRY com.pat.tool.keditor 1 0 2017-07-17 15:35:48.056
+!MESSAGE GET_FILE_DIALOG-> {"MSG_ID":22,"MSG_TYPE":"REQUEST","CURRENT_PROJECT_NAME":"mvvmPractice","DATA":{"dialogType":"OPENRESOURCE","path":"D:\\SourceCode\/mvvmPractice\/splashscreenproperties.json","type":"kproject","projectModified":false},"SERVICE_NAME":"FILE_DIALOG"}
+
+!ENTRY com.pat.tool.keditor 1 0 2017-07-17 15:35:48.062
+!MESSAGE Open resource dir -> kproject, D:\SourceCode/mvvmPractice/splashscreenproperties.json
