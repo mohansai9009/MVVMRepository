@@ -1,0 +1,4 @@
+function forkChecking()
+{
+alert("Main");
+}
